@@ -21,21 +21,19 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ X ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://imgur.com/a/IE6U0
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered:
+
+1. Since i am a complete beginner to iOS, it was very exciting and challenging at the same time. However at the EOD to learn each step and to see that i have successfully built the app was very satisfying and i would love to learn this skill
 
 ## License
 
